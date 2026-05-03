@@ -1,10 +1,10 @@
-git clone https://github.com/your# 🔄 Swapify — Cozy Community Marketplace
+# 🔄 Swapify — Cozy Community Marketplace
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-Swapify is a full-featured web application that enables community-driven swapping of skills, physical items, and half-price deals[cite: 1]. The platform focuses on reducing waste, building local connections, and fostering a trust-based sharing economy[cite: 1].
+Swapify is a full-featured web application that enables community-driven swapping of skills, physical items, and half-price deals. The platform focuses on reducing waste, building local connections, and fostering a trust-based sharing economy.
 
 ---
 
@@ -15,7 +15,7 @@ Experience a cozy and intuitive community environment across all devices.
 
 | Login Interface | Main Community Page | User Profile |
 | :---: | :---: | :---: |
-| ![Login](screenshots/login.png) | ![Main Page](screenshots/main.png) | ![Profile](screenshots/profile.png) |
+| ![Login](screenshots/login.png) | ![Main Page](screenshots/main_page.png) | ![Profile](screenshots/profile.png) |
 | *Interactive Lamp Toggle UI* | *Skill & Object Swap Feed* | *Manage Wallet & Swaps* |
 
 ---
@@ -25,7 +25,7 @@ A seamless flow from discovering deals to secure simulated checkout.
 
 | Half-Price Deals | Shopping Cart | Secure Payment |
 | :---: | :---: | :---: |
-| ![Deals](screenshots/deals.png) | ![Cart](screenshots/cart.png) | ![Payment](screenshots/payment.png) |
+| ![Deals](screenshots/half_price_deals.png) | ![Cart](screenshots/cart.png) | ![Payment](screenshots/payment.png) |
 | *Daily Point-Redeemable Deals* | *Persistent LocalStorage Cart* | *Points & Promo Integration* |
 
 ---
@@ -68,14 +68,14 @@ Built with vanilla HTML/CSS/JS, the app uses `localStorage` as its data store, m
 ## ✨ Features
 
 ### Core Marketplace
-*   **Skill Swaps**: Offer and request skills with level ratings (Beginner → Expert)[cite: 1].
-*   **Object Swaps**: Trade physical items; each listing shows "wants"[cite: 1].
-*   **Half-Price Deals**: Discounted items with cart, checkout, and payment simulation[cite: 1].
-*   **Search & Filters**: Live search + multi-criteria filtering (category, condition, rating, level, location)[cite: 1].
+*   **Skill Swaps**: Offer and request skills with level ratings (Beginner → Expert).
+*   **Object Swaps**: Trade physical items; each listing shows "wants".
+*   **Half-Price Deals**: Discounted items with cart, checkout, and payment simulation.
+*   **Search & Filters**: Live search + multi-criteria filtering (category, condition, rating, level, location).
 *   **Favorites**: Heart-based wishlist system[cite: 1].
 
 ### Shopping & Rewards
-*   **Shopping Cart**: Persistent cart with quantity controls and stock management[cite: 1].
+*   **Shopping Cart**: Persistent cart with quantity controls and stock management.
 *   **Checkout**: Credit/debit card form, Cash on Delivery, and 50% split payment plan options[cite: 1].
 *   **Swapify Points**: Earn 10 points per $1 spent; 100 points = $1 discount[cite: 1].
 *   **Wallet**: View points balance, transaction history, and saved payment cards[cite: 1].
